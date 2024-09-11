@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dipesh Gyanchandani</h1>
 
- <img align="right" src="https://github.com/dipeshgyanchandani/dipeshgyanchandani/blob/master/images/New-file%20(4).gif" width=25% height=140px href="https://github.com/dipeshgyanchandani" />
-
+ 
 <h3 align="center">I am a MS CS student who is passionate about Competitive Programming, Data Science and Web Development alongside being pretty active and participating in events that encourage me to learn. Proficient in Python and also have strong foundations of Data Structures, Algorithms, Machine Learning, Deep Learning and coding fundamentals which help me to understand and alleviate problems.
 </h3>
 

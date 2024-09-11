@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dipesh Gyanchandani</h1>
 
  
-<h3 align="center">I am a Software Engineer who is passionate about Mobile and web development, Data Science and Competitive Programming alongside being pretty active and participating in events that encourage me to learn. Proficient in Python and also have strong foundations of Data Structures, Algorithms, Machine Learning, Deep Learning and coding fundamentals which help me to understand and alleviate problems.
+<h3 align="center">I am a Software Engineer with over 2 years of experience in mobile and web development and data science. Currently, I am pursuing an M.Sc. in Computer Science (Specialization in A.I.) at the University of Western Ontario. I have worked on projects involving Aptamer Discovery, Deep Learning, and Large Language Models (LLMs), focusing on applying deep learning techniques to SELEX data analysis and information extraction from unstructured data.
+
+Proficient in Python, SQL, React, and Java, I have contributed to enterprise-level applications and developed AI-driven solutions. My strong foundation in data structures, algorithms, machine learning, and software development enables me to tackle complex problems and continuously advance my technical skills.
 </h3>
 
 

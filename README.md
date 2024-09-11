@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dipesh Gyanchandani</h1>
 
  
-<h3 align="center">I am a MS CS student who is passionate about Competitive Programming, Data Science and Web Development alongside being pretty active and participating in events that encourage me to learn. Proficient in Python and also have strong foundations of Data Structures, Algorithms, Machine Learning, Deep Learning and coding fundamentals which help me to understand and alleviate problems.
+<h3 align="center">I am a Software Engineer who is passionate about Mobile and web development, Data Science and Competitive Programming alongside being pretty active and participating in events that encourage me to learn. Proficient in Python and also have strong foundations of Data Structures, Algorithms, Machine Learning, Deep Learning and coding fundamentals which help me to understand and alleviate problems.
 </h3>
 
 

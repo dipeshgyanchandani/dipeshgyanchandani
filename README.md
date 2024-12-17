@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dipesh Gyanchandani</h1>
 
  
-<h3 align="center">I am a Software Engineer with over 4 years of experience in mobile and web development and data science with a Masters degree in Computer Science (Specialization in A.I.) from the University of Western Ontario. I have worked on projects involving Aptamer Discovery, Deep Learning, LLMs.
+<h3 align="center">I am a Software Engineer with over 4 years of experience in mobile & web development and data science with a Masters degree in Computer Science (Specialization in A.I.) from the University of Western Ontario. I have worked on projects involving Aptamer Discovery, Deep Learning, LLMs.
 
 Proficient in Python, SQL, React, and Java, I have contributed to enterprise-level applications and developed AI-driven solutions. My strong foundation in data structures, algorithms, machine learning, and software development enables me to tackle complex problems and continuously advance my technical skills.
 </h3>
